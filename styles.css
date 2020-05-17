@@ -411,9 +411,9 @@ footer a {
   text-align: center;
 }
 
-@media (min-height: 1020px) {
+@media (min-height: 770px) {
   header {
-    height: 1024px;
+    height: 770px;
   }
 }
 
@@ -452,13 +452,13 @@ footer a {
   .main-1 h2 {
     margin: 50px auto;
   }
+
+  .highlights h2 {
+    margin: 0px auto;
+  }
 }
 
 @media (max-width: 840px) {
-  .hero-text {
-    top: 65%;
-  }
-
   header .social {
     bottom: 20px;
   }
