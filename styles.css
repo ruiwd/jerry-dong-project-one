@@ -21,9 +21,9 @@ a {text-decoration: none;color: #000;display: inline-block}
   margin: 0 auto;
 }
 
-/* * {
+* {
   border: red 2px solid;
-} */
+}
 
 img {
   width: 100%;
