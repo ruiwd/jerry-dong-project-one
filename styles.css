@@ -474,7 +474,7 @@ footer a {
   }
 }
 
-@media (max-width: 420px) {
+@media (max-width: 600px) {
   header {
     height: 500px;
     background-position: 35% 50%;
